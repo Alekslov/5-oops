@@ -1,0 +1,30 @@
+body {
+background-color:  #7A5BA7;
+margin-right: 0%;
+
+}
+body>img {
+    display: inline-block;
+    float: right;
+    width: 50%;
+    margin-top: 88px;
+    margin-left: 10px;
+}
+div>div {
+    position: absolute;
+    width: 754.375px;
+    text-align: center;
+
+}
+div>img {
+    display: inline-block;
+    float: left;
+    width: 40%;
+    padding-left: 81.25px;
+    margin-top: 109px;
+
+}
+h1{
+    font-size: 80px;
+    font-family: 
+}
