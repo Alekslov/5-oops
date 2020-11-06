@@ -9,24 +9,41 @@ body>div>img {
     display: inline-block;
     float: right;
     width: 50%;
-    margin-top: 50px;
+    margin-top: 144px;
     margin-left: 10px;
+    margin-right: 100px;
 }
 div>div {
     position: absolute;
     width: 700px;
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: fantasy;
+    margin-top: 80px;
 }
 div>div>img {
     display: inline-block;
     float: left;
     width: 70%;
-    padding-left: 200px;
-    margin-top: 80px;
+    padding-left: 100px;
+    margin-top: 174px;
 
 }
 h1{
-    font-size: 110px;
-    color: white;
+    font-size: 150px;
+    color: #F4ECD9;;
+    display: inline-block;
+    margin: 0;
+    margin-block-start: 0.9em;
+    }
+    a{
+        color: #F4ECD9;
+        font-size: 30px;
+        border: 5px solid #F6911D;
+        background-color: #F6911D;
+        text-decoration: none;
+        letter-spacing: 4px;
+        border-block-start-width: 30px;
+        border-block-end-width: 30px;
+        padding-inline-start: 40px;
+        padding-inline-end: 40px;
     }
